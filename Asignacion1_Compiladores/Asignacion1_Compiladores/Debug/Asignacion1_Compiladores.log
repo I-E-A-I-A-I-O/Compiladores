@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Jesus\source\repos\Asignacion1_Compiladores\Asignacion1_Compiladores\Source.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jesus\source\repos\Asignacion1_Compiladores\Asignacion1_Compiladores\Source.cpp(22,6): warning C4101: 'temp': unreferenced local variable
+  Asignacion1_Compiladores.vcxproj -> C:\Users\Jesus\source\repos\Asignacion1_Compiladores\Debug\Asignacion1_Compiladores.exe
